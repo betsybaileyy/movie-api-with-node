@@ -1,5 +1,5 @@
-# Rest API
-Experimenting with rest APIs in Node and Express.
+# REST API
+Experimenting with REST APIs in Node and Express.
 
 ### Getting Started
 Run `npm install` to get dependencies.
